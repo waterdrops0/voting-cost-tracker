@@ -1,4 +1,4 @@
-is an app that notifies users when the Gas Cost for Voting on Nouns Proposals falls below (or rises above) a user-specified threshold.
+App that notifies users when the Gas Cost for Voting on Nouns Proposals falls below (or rises above) a user-specified threshold.
 
 Users can set multiple alerts, and when the Gas fee surpasses the defined limit, a push notification is sent to all devices linked to the same account.
 
